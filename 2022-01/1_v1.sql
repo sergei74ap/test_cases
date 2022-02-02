@@ -1,4 +1,4 @@
--- Это решение работает для postgresql/greenplum (используются оконнные функции)
+-- ГќГІГ® Г°ГҐГёГҐГ­ГЁГҐ Г°Г ГЎГ®ГІГ ГҐГІ Г¤Г«Гї postgresql/greenplum (ГЁГ±ГЇГ®Г«ГјГ§ГіГѕГІГ±Гї Г®ГЄГ®Г­Г­Г­Г»ГҐ ГґГіГ­ГЄГ¶ГЁГЁ)
 WITH intervals AS (    
       SELECT
             post_id, views, likes, shares,
